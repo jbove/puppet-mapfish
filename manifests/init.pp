@@ -1,5 +1,3 @@
-import "classes/*.pp"
-
 /*
 
 == Class: mapfish
